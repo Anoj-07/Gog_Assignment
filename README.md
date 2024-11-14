@@ -1,4 +1,4 @@
-
+``` https://gog-assignment-g6bm.vercel.app/ ```
 # GOG-Assignment
 
 A full-stack application built with React, Tailwind CSS, Spring Boot, and Spring Data JPA. This project demonstrates a simple frontend with secure authentication with login and signUp feature.
